@@ -1,6 +1,6 @@
 # Test-Task
 
-#Task:
+Task:
 Create applications to test password strength.
 
 The essence of the assignment:
